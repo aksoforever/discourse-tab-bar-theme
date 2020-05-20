@@ -1,0 +1,8 @@
+--- 
+en: 
+  tab_1: "Home, home, /"
+  tab_2: "Profile, user, userActivity"
+  tab_3: "Messages, envelope, userPrivateMessages"
+  tab_4: "Bookmarks, bookmark, userActivity.bookmarks"
+  tab_5: "Preferences, cog, preferences"
+  tab_6: "Notifications, comment, userNotifications, false"
