@@ -3,12 +3,12 @@
   const tabs = [];
   const router = api.container.lookup("router:main");
   [
-    settings.tab_1_settings,
-    settings.tab_2_settings,
-    settings.tab_3_settings,
-    settings.tab_4_settings,
-    settings.tab_5_settings,
-    settings.tab_6_settings
+    I18n.t(themePrefix("tab_1")),
+    I18n.t(themePrefix("tab_2")),
+    I18n.t(themePrefix("tab_3")),
+    I18n.t(themePrefix("tab_4")),
+    I18n.t(themePrefix("tab_5")),
+    I18n.t(themePrefix("tab_6"))
   ].forEach(setting => {
     const props = setting.split(",").map(s => s.trim());
     if (props.length >= 3 && props[3] !== "false") {
