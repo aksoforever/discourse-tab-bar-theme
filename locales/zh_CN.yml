@@ -1,0 +1,9 @@
+
+--- 
+zh_CN: 
+  tab_1: "首页, home, /"
+  tab_2: "用户, user, userActivity"
+  tab_3: "信息, envelope, userPrivateMessages"
+  tab_4: "书签, bookmark, userActivity.bookmarks"
+  tab_5: "设置, cog, preferences"
+  tab_6: "提示, comment, userNotifications, false"
