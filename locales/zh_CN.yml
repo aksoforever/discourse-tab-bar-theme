@@ -2,8 +2,8 @@
 --- 
 zh_CN: 
   tab_1: "首页, home, /"
-  tab_2: "用户, user, userActivity"
-  tab_3: "信息, envelope, userPrivateMessages"
-  tab_4: "书签, bookmark, userActivity.bookmarks"
-  tab_5: "设置, cog, preferences"
-  tab_6: "提示, comment, userNotifications, false"
+  tab_2: "告示,bullhorn, /c/publicity/5"
+  tab_3: "制度, file-alt, /c/regulations"
+  tab_4: "学习, book-reader, /c/leaning/22"
+  tab_5: "论坛, far-comment, /c/bbs/68"
+  tab_6: "应用, fab-app-store, /c/apps/1"
